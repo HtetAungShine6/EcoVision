@@ -15,9 +15,9 @@ EcoVision is an app designed to help users reduce their carbon footprint by prov
 - git clone <repo-link>
 
 ## Demo
-![Image](https://github.com/user-attachments/assets/70268437-08c5-4b07-847e-b85f4197b403)
-![Image](https://github.com/user-attachments/assets/083dd1da-822d-4897-b5e8-a7305752d7b7)
-![Image](https://github.com/user-attachments/assets/1328243c-9d4e-447a-b4ac-6080ef1357fa)
-![Image](https://github.com/user-attachments/assets/9186bfcf-d22c-42ca-8a82-2dcb197120dc)
-![Image](https://github.com/user-attachments/assets/c6047b00-d3f9-45a5-b12e-c1fc89cb1f4b)
-![Image](https://github.com/user-attachments/assets/f1952ec3-0382-4682-ac15-407df996376d)
+<img src="https://github.com/user-attachments/assets/70268437-08c5-4b07-847e-b85f4197b403" width="300"/>
+<img src="https://github.com/user-attachments/assets/083dd1da-822d-4897-b5e8-a7305752d7b7" width="300"/>
+<img src="https://github.com/user-attachments/assets/1328243c-9d4e-447a-b4ac-6080ef1357fa" width="300"/>
+<img src="https://github.com/user-attachments/assets/9186bfcf-d22c-42ca-8a82-2dcb197120dc" width="300"/>
+<img src="https://github.com/user-attachments/assets/c6047b00-d3f9-45a5-b12e-c1fc89cb1f4b" width="300"/>
+<img src="https://github.com/user-attachments/assets/f1952ec3-0382-4682-ac15-407df996376d" width="300"/>
